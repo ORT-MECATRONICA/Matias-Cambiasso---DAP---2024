@@ -4,6 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
 
+List<String> users = ["cambi", "echi", "lilo"];
+List<String> passwords = ["god", "amorypaz123", "mesasilla"];
+
 class LoginScreen extends StatelessWidget {
    LoginScreen({super.key});
   
